@@ -1,0 +1,11 @@
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe.config

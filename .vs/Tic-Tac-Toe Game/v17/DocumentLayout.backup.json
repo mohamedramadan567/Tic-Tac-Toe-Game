@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|d:\\new folder\\course 14 - c# - level 1\\31 - introduction about controls\\tic-tac-toe game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50B8F67-D601-4D46-B43A-BFB7D8CA8EFD}|Tic-Tac-Toe Game.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAwwPAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:14:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:27:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\New folder\\Course 14 - C# - Level 1\\31 - Introduction About Controls\\Tic-Tac-Toe Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:26:55.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
